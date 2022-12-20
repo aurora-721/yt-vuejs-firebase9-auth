@@ -2,12 +2,12 @@ import { initializeApp } from "firebase/app"
 import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB3Z8T6I_ZZ9fnXnUUGDL9-3ocJVII3wEM",
-  authDomain: "vue-fire-auth-yt.firebaseapp.com",
-  projectId: "vue-fire-auth-yt",
-  storageBucket: "vue-fire-auth-yt.appspot.com",
-  messagingSenderId: "745571531497",
-  appId: "1:745571531497:web:31ef49d3de839b54030e78"
+  apiKey: "AIzaSyApus5Qbi7VFZYqP-mHYpvgDpahOLRv6Bg",
+  authDomain: "loginx-logger.firebaseapp.com",
+  projectId: "loginx-logger",
+  storageBucket: "loginx-logger.appspot.com",
+  messagingSenderId: "560473359944",
+  appId: "1:560473359944:web:599f71234b63e29b613a7d"
 }
 
 const app = initializeApp(firebaseConfig)
